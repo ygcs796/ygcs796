@@ -70,18 +70,6 @@ Carrinho autônomo desenvolvido na disciplina de Introdução à Computação. O
 
 ---
 
-## Estatísticas
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ygcs796&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ygcs796&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ygcs796-181717?style=flat-square&logo=github)](https://github.com/ygcs796)
