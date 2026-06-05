@@ -13,7 +13,7 @@ Apaixonado por sistemas que operam na fronteira entre hardware e software.
 
 Estudo Engenharia da Computação com interesse em todas as áreas da tecnologia — desde a descrição de hardware em HDL até interfaces web funcionais. Tenho explorado diferentes camadas da computação ao longo da graduação, do nível físico ao nível de aplicação.
 
-Atualmente focado em consolidar conhecimentos em sistemas embarcados, arquitetura de computadores e desenvolvimento de jogos.
+Atualmente focado em consolidar conhecimentos em arquitetura de computadores e desenvolvimento de jogos.
 
 ---
 
@@ -38,7 +38,7 @@ Atualmente focado em consolidar conhecimentos em sistemas embarcados, arquitetur
 
 ## Áreas de interesse
 
-- **Sistemas Embarcados & IoT** — microcontroladores, firmware, integração hardware-software
+- **Desenvolvimento de Jogos** - Jogos Top-down e RPG
 - **Arquitetura de Computadores** — organização de processadores, descrição em HDL
 - **Desenvolvimento Web** — interfaces frontend com HTML, CSS e JavaScript
 
